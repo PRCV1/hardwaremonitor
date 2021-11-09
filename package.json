@@ -6,6 +6,10 @@
 	"author": {
 		"name": "PRCV1"
 	},
+	"license": "MIT License",
+	"repository": {
+		"url": "https://github.com/PRCV1/hardwaremonitor"
+	},
 	"engines": {
 		"vscode": "^1.61.0"
 	},
